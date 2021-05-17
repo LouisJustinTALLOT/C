@@ -28,4 +28,15 @@ main() {
     // printf("\\x -> |\x| \n");
     printf("\\y -> |\y| \n");
     printf("\\z -> |\z| \n");
+    printf("\\\\ -> |\\| \n");
+    printf("\\0 -> |\0| \n");
+    printf("\\1 -> |\1| \n");
+    printf("\\2 -> |\2| \n");
+    printf("\\3 -> |\3| \n");
+    printf("\\4 -> |\4| \n");
+    printf("\\6 -> |\6| \n");
+    printf("\\7 -> |\7| \n");
+    printf("\\8 -> |\8| \n");
+    printf("\\9 -> |\9| \n");
+    printf("\\? -> |\?| \n");
 }
